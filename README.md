@@ -211,7 +211,7 @@ The AI will process your speech, analyze the legal context via Multi-Agent Chain
 
 Designed & Developed by: ARULDASS
 
-Version: Infosys Springboard build v1
+Version: build v1
 
 License: MIT License
 
